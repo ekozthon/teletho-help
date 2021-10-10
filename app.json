@@ -57,7 +57,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس عربي : DARK-THON-Ar  ",
-      "value": "Telethon-Ar",
+      "value": "https://github.com/ekozthon/teletho-help",
       "required": false
     }
   },
