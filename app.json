@@ -57,7 +57,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس عربي : DARK-THON-Ar  ",
-      "value": "https://github.com/ekozthon/ZED_USERBOT"
+      "value": "DARK-ar"
 ",
       "required": false
     }
