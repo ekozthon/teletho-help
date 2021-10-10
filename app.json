@@ -41,7 +41,7 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "ضع كود هيروكوان لم تعرفها يوجد هنا شرحها https://t.me/teamtelethon/14",
+      "description": "ضع ايبي هيروكو   ",
       "value": "",
       "required": false
     },
@@ -51,12 +51,12 @@
       "required": false
       },
       "TZ": {
-      "description": "موقعك الحالي فقط امسح كلمه بغداد وحط عاصمه بلدك فقط",
+      "description": "موقعك الحالي ",
       "value": "Asia/Baghdad",
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رابط السورس عربي : Telethon-Ar  ",
+      "description": "رابط السورس عربي : DARK-THON-Ar  ",
       "value": "Telethon-Ar",
       "required": false
     }
