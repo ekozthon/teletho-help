@@ -1,5 +1,5 @@
 {
-  "name": "تليثون  داركثون",
+  "name": "telethon",
   "description": "اهلا بك في تنصيب داركثون  لمتابعه قناتنا : @riothon ",
   "logo": "https://telegra.ph/file/9c421f1b2828b188efe81.jpg",
   "keywords": [
@@ -12,15 +12,15 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "اكتب اسمك⁦",
+      "description": "ضع اسمك الخاص بالتلي⁦",
       "value": "⁦⁦"
     },
     "APP_ID": {
-      "description": "اكتب هنا الايبي ايدي",
+      "description": "ضع هنا الايبي ايدي",
       "value": ""
     },
     "API_HASH": {
-      "description": "اكتب هنا ألايبي هاش",
+      "description": "ضع هنا الايبي هاش",
       "value": ""
     },
     "STRING_SESSION": {
@@ -56,8 +56,8 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "رابط السورس عربي : DARK-THON-Ar  ",
-      "value": "DARK-ar"
+      "description": "رابط السورس -لتلعب بي ابد : ",
+      "value": ""
 ",
       "required": false
     }
